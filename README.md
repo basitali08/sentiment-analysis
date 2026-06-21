@@ -31,7 +31,11 @@ Manual review analysis is impossible at scale. This project builds a complete NL
 - Achieves **86% accuracy** with the best model
 - Provides **real-time sentiment prediction** for new reviews
 
-[![Accuracy-86%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/sentiment-analysis) [![Precision-85%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/sentiment-analysis) [![Recall-84%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/sentiment-analysis) [![F1-Score-84%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/sentiment-analysis) [![Dataset-3%2C000_reviews-blue?style=flat-square&labelColor=1a1a2e&color=0066ff)](https://github.com/basitali08/sentiment-analysis)
+[![Accuracy](https://img.shields.io/badge/Accuracy-86%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/sentiment-analysis)
+[![Precision](https://img.shields.io/badge/Precision-85%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/sentiment-analysis)
+[![Recall](https://img.shields.io/badge/Recall-84%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/sentiment-analysis)
+[![F1-Score](https://img.shields.io/badge/F1--Score-84%25-success?style=flat-square&labelColor=1a1a2e&color=00e676)](https://github.com/basitali08/sentiment-analysis)
+[![Dataset](https://img.shields.io/badge/Dataset-3%2C000_reviews-blue?style=flat-square&labelColor=1a1a2e&color=0066ff)](https://github.com/basitali08/sentiment-analysis)
 
 ---
 
